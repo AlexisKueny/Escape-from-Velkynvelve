@@ -1,0 +1,7 @@
+Guide for annotation colours
+
+Red: boundaries
+White: walls
+Brown: doors
+Yellow: miscellaneous important objects
+Blue: water
